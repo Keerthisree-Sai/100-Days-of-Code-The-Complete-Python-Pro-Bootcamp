@@ -7,12 +7,16 @@ This repository documents my learning journey and implementations for [Dr. Angel
 ## 📚 Course Overview
 
 This bootcamp covers:
-- Core Python programming
-- Data structures & Control flow
+- Core Python Programming Fundamentals
+- Data structures and Control Flow
+- Functions and Error Handling
 - Object-Oriented Programming
+- File handling and working with CSV, JSON
 - Web development with Flask
-- Working with APIs & automation
-- GUI development (Tkinter)
-- Data Science basics
-- Capstone projects
-
+- Working with REST APIs and building your own
+- Automation with Python (e.g., Selenium, BeautifulSoup)
+- GUI development using Tkinter
+- Game development with Turtle and PyGame
+- Data analysis basics using Pandas and NumPy
+- Capstone projects and real-world applications
+- Version control with Git and GitHub
